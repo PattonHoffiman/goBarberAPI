@@ -1,0 +1,7 @@
+temp/*
+!temp/.gitkeep
+.env
+ormconfig.json
+build/
+.vscode/
+node_modules/
